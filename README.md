@@ -38,6 +38,7 @@ El programa busca romper este ciclo mediante la creación de un sistema que:
 * Python
 * Pandas
 * Google Colab
+* Kaggle
 
 ---
 
